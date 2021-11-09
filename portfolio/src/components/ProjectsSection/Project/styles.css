@@ -11,6 +11,7 @@
     flex: 1;
     width: 50%;
     object-fit: cover;
+    padding: 5px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -37,14 +38,19 @@
 }
 
 .title {
-    font-weight: bolder
+    font-weight: bolder;
+    text-align: center;
 }
 
-.subtitle {
+.description {
     font-weight: lighter;
     color: rgba(0, 0, 0, 0.3);
 }
 
-.description {
+/* .link-section {
+    flex-direction: column;
+} */
 
+.projectlink:hover {
+   color: goldenrod;
 }

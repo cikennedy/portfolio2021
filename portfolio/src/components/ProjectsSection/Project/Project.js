@@ -16,8 +16,10 @@ export default (props) => {
                 </div>
                 {/* <div className='projectgithub'>{project.projectgithub}</div>
                 <div className='projectdeployed'>{project.projectdeployed}</div> */}
-                <a class="icon" target="_blank" rel="noopener noreferrer" href={project.projectgithub}>GitHub</a>
-                <a class="icon" target="_blank" rel="noopener noreferrer" href={project.projectdeployed}>Deployed</a>
+                <div className="link-section">
+                <a className="projectlink" target="_blank" rel="noopener noreferrer" href={project.projectgithub}>GitHub</a>
+                <a className="projectlink" target="_blank" rel="noopener noreferrer" href={project.projectdeployed}>Deployed</a>
+                </div>
             </div>
         </div>
     )
