@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles.css';
 
-export default (props) => {
+export default (props) =>
     (
         <React.Fragment>
             <div class='center-middle flex-column'>
@@ -20,4 +20,3 @@ export default (props) => {
             </div>
         </React.Fragment>
     )
-}

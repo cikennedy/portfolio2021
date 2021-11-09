@@ -1,7 +1,7 @@
-import IntroSection from './IntroSection';
-import ProjectsSection from './ProjectsSection';
-import Section from './Section';
-import SkillsSection from './SkillsSection';
+import IntroSection from './IntroSection/IntroSection';
+import ProjectsSection from './ProjectsSection/ProjectsSection';
+import Section from './Section/Section';
+import SkillsSection from './SkillsSection/SkillsSection';
 
 export {
     IntroSection,
