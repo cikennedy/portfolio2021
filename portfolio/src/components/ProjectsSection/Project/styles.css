@@ -40,11 +40,13 @@
 .title {
     font-weight: bolder;
     text-align: center;
+    padding: 5px;
 }
 
 .description {
     font-weight: lighter;
     color: rgba(0, 0, 0, 0.3);
+    padding: 5px
 }
 
 /* .link-section {
@@ -53,4 +55,13 @@
 
 .projectlink:hover {
    color: goldenrod;
+}
+
+.projectlink {
+    display: block;
+    text-decoration: none;
+    font: Roboto; 
+    color: black;
+    text-align: center;
+    padding: 5px
 }
