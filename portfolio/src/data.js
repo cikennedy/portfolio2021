@@ -31,7 +31,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "React-based full-stack application that allows users to search for books. Users will be able to save books that can be purchased or reviewed at a later date.",
-    image: "./project-4.gif",
+    image: "./google-books.gif",
     deployLink: "https://workerbeeapp.herokuapp.com/",
     repoLink: "https://github.com/cikennedy/Google-Books-Search",
   },
