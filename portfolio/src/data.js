@@ -3,51 +3,37 @@ export const projects = [
     title: "Workerbee",
     subtitle: "MERN Stack",
     description:
-      "An application in development that exists to help pair chore-level laborers with those in need of help. Focused on students and ",
+      "An application in development that exists to help pair chore-level laborers with those in need of help.",
     image: "./workerbee.gif",
     deployLink: "https://workerbeeapp.herokuapp.com/",
     repoLink: "https://github.com/cikennedy/workerbee",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Find My Pet",
+    subtitle: "Next.js and SQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Application designed to help find lost pets. Recently updated to utilize Next.js.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    deployLink: "https://findmymissingpet.herokuapp.com/dashboard",
+    repoLink: "https://github.com/cikennedy/findmypet",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "PuzzleCam Game",
+    subtitle: "JavaScript, MySQL, and PHP",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A game that creates a jigsaw puzzle using the camera on a device. Uses only HTML, vanilla JavaScript, MySQL, and PHP.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    deployLink: "https://",
+    repoLink: "https://github.com/cikennedy/jigsaw-cam-game",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Google Books Dashboard",
+    subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "React-based full-stack application that allows users to search for books. Users will be able to save books that can be purchased or reviewed at a later date.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    deployLink: "https://workerbeeapp.herokuapp.com/",
+    repoLink: "https://github.com/cikennedy/Google-Books-Search",
   },
 ];
 
