@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.11c199a4.css",
-  "main.css.map": "static/css/main.11c199a4.css.map",
-  "main.js": "static/js/main.be93b55f.js",
-  "main.js.map": "static/js/main.be93b55f.js.map",
+  "main.css": "static/css/main.7baa6d67.css",
+  "main.css.map": "static/css/main.7baa6d67.css.map",
+  "main.js": "static/js/main.9dd7ba20.js",
+  "main.js.map": "static/js/main.9dd7ba20.js.map",
   "static/media/amazonwebservices.png": "static/media/amazonwebservices.22a12b34.png",
   "static/media/bootstrap.png": "static/media/bootstrap.008a3982.png",
   "static/media/css3.png": "static/media/css3.693e294d.png",
@@ -16,8 +16,6 @@
   "static/media/mysql.png": "static/media/mysql.97060d3b.png",
   "static/media/node-js.png": "static/media/node-js.8e3d5122.png",
   "static/media/php.png": "static/media/php.77a7ebe4.png",
-  "static/media/python.png": "static/media/python.bc84e6b0.png",
-  "static/media/rails.png": "static/media/rails.b0849917.png",
   "static/media/react.png": "static/media/react.dafce21a.png",
   "static/media/sequelize.png": "static/media/sequelize.d4bb95a2.png",
   "static/media/typescript.png": "static/media/typescript.de67947c.png"
