@@ -32,7 +32,7 @@ export const projects = [
     description:
       "React-based full-stack application that allows users to search for books. Users will be able to save books that can be purchased or reviewed at a later date.",
     image: "./google-books.gif",
-    deployLink: "https://workerbeeapp.herokuapp.com/",
+    deployLink: "https://google-books-dashboard-app.herokuapp.com/",
     repoLink: "https://github.com/cikennedy/Google-Books-Search",
   },
 ];
