@@ -7,10 +7,10 @@ export default function Projects() {
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Sample Projects
+            Sample Work
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Please see a preview of some of my past work below. Both the GitHub repository links
+            Please see a preview of some of my past work below. Hover over the .gifs below to get a brief description of project, the technologies used, and the links to view the project. Both the GitHub repository links
             and deployed sites are available for you to view. 
           </p>
         </div>
