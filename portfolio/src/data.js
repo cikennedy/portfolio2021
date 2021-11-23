@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "Next.js and SQL",
     description:
       "Application designed to help find lost pets. Recently updated to utilize Next.js.",
-    image: "./project-2.gif",
+    image: "./placeholder.jpeg",
     deployLink: "https://findmymissingpet.herokuapp.com/dashboard",
     repoLink: "https://github.com/cikennedy/findmypet",
   },
@@ -22,7 +22,7 @@ export const projects = [
     subtitle: "JavaScript, MySQL, and PHP",
     description:
       "A game that creates a jigsaw puzzle using the camera on a device. Uses only HTML, vanilla JavaScript, MySQL, and PHP.",
-    image: "./project-3.gif",
+    image: "./placeholder.jpeg",
     deployLink: "https://",
     repoLink: "https://github.com/cikennedy/jigsaw-cam-game",
   },
