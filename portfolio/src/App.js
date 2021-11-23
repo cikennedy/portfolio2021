@@ -1,22 +1,18 @@
-import React, { Component } from 'react';
-import { IntroSection, ProjectsSection, SkillsSection } from './components';
-import User from './User';
-import './assets/styles.css';
+import React from "react";
+import About from "./Components/About";
+import Contact from "./Components/Contact";
+import Navbar from "./Components/Navbar";
+import Projects from "./Components/Projects";
+import Skills from "./Components/Skills";
 
-class App extends Component {
-  render() {
-    return (
-      <React.Fragment>
-        <IntroSection user={User} />
-        <ProjectsSection projects={User.projects} />
-        <SkillsSection skills={User.skills} />
-      </React.Fragment>
-    );
-  }
+export default function App() {
+  return (
+    <main className="text-gray-400 bg-white body-font">
+      <Navbar />
+      <About />
+      <Projects />
+      <Skills />
+      <Contact />
+    </main>
+  );
 }
-
-export default App;
-
-{/* <main className="text-gray-400 bg-gray-900 body-font">
-<Navbar />
-</main> */}
