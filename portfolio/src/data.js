@@ -3,9 +3,10 @@ export const projects = [
     title: "Workerbee",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An application in development that exists to help pair chore-level laborers with those in need of help. Focused on students and ",
+    image: "./workerbee.gif",
+    deployLink: "https://workerbeeapp.herokuapp.com/",
+    repoLink: "https://github.com/cikennedy/workerbee",
   },
   {
     title: "React Tracks",

@@ -10,8 +10,22 @@ export default function About() {
             <br className="hidden lg:inline-block" />Software Engineer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Hi! I'm a software engineer specializing in web development. Below you can see a sample of my previous work, 
+            Hi! I'm a software engineer specializing in web development. I have most recently created full-stack projects using the MERN stack 
+            and am experienced using JavaScript, HTML, CSS, Front End Frameworks, and both SQL and NoSQL database systems. 
+            <br />
+            <br />
+            My communication skills and ability to quickly adapt have been particularly helpful when working under pressure with teams to complete tasks and overcome unique obstacles. 
+            I strive to show a strong attention to detail while being flexible enough to collaborate with others to complete the team's goals. 
+           
+            <br />
+            <br />
+            Outside of work, I enjoy cooking, trying new restaurants, music, concerts, golf, snowboarding, hiking, and basically any activity that can get me outside! 
+            
+            <br />
+            <br />
+            Below you can see a sample of my previous work, 
             the technologies and skills I have used, and my contact information. Please send a message so that we can connect! 
+           
           </p>
           <div className="flex justify-center">
             <a
