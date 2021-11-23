@@ -38,10 +38,10 @@ export const projects = [
 ];
 
 export const skills = [
-  "Agile Methodologies",
+  "Agile Methodology",
   "Object-Oriented Programming (OOP)",
   "Model-View-Controller (MVC)",
   "REST",
-  "HTTP",
+  "Database Theory",
   "Scrum",
 ];
