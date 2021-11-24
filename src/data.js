@@ -30,7 +30,7 @@ export const projects = [
     title: "Google Books Dashboard",
     subtitle: "MERN Stack",
     description:
-      "React-based full-stack application that allows users to search for books. Users will be able to save books that can be purchased or reviewed at a later date.",
+      "React-based full-stack application that allows users to search for books using Google Books. Users will be able to save books that can be purchased or reviewed at a later date.",
     image: "./google-books.gif",
     deployLink: "https://google-books-dashboard-app.herokuapp.com/",
     repoLink: "https://github.com/cikennedy/Google-Books-Search",
