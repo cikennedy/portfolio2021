@@ -11,15 +11,15 @@ export default function Navbar() {
 
   return (
     <header className="bg-gray-800 md:sticky top-0 z-10">
-      <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <a className="title-font font-medium text-white mb-4 md:mb-0">
+      <div className="container mx-auto inline-flex flex-wrap p-5 md:flex-row items-center">
+        <p className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="font-semibold text-xl dark:text-gray-100">
             Chris Kennedy
           </a>
           <p className="text-base font-light text-gray-500 dark:text-gray-300">
             Web Developer | Software Engineer
           </p>
-        </a>
+        </p>
 
         <button
           className=' inline-flex p-3 hover:bg-green-600 rounded lg:hidden text-white ml-auto hover:text-white outline-none'
