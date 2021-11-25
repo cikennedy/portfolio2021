@@ -22,7 +22,7 @@ export default function Navbar() {
         </p>
 
         <button
-          className=' inline-flex p-3 hover:bg-green-600 rounded lg:hidden text-white ml-auto hover:text-white outline-none'
+          className=' inline-flex p-3 rounded lg:hidden bg-gray-800 text-base  ml-auto hover:text-white outline-none'
           onClick={handleClick}
         >
           <svg
